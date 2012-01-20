@@ -1,0 +1,7 @@
+WARNING THIS IS EXPERIMENTAL.
+DO NOT USE IN PRODUCTION UNLESS YOU EXACTLY KNOW WHAT YOU ARE DOING.
+
+This python module will establish a serial connection to a gsm modem.
+It will then push a command in it, and evaluate it's output.
+
+It throws proper exceptions if something is going wrong.
